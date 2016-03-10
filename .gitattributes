@@ -1,2 +1,3 @@
-master-only/* merge=ours
+master-only/file1.php merge=ours
+master-only/file2.php merge=ours
 
